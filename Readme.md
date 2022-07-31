@@ -1,8 +1,21 @@
-# Html project with css and images
+## Name - Rajnish Sharma 
 
-## project is learning purpose for free 
+### Project Name - html layout project 6
 
+#####   Understanding about positions to play with absolute positions and other css properties.
 
- pushing code to git and github project 6
+### Technologies
+- HTML 5 (postion abosolute)
+- CSS 3
+- Absolute position Image
 
-![badge](https://img.shields.io/badge/HTML-PROJECT-brightgreen)
+### CSS fixed postion property
+##### The fixed positioning property positions the element relative to the screens viewport and stays fixed on the screen when scrolling.
+
+### Time.
+#### 5 hours
+
+### Porject link
+[vercel link ](https://html-css-project6.vercel.app/)
+
+![badge](https://img.shields.io/badge/HTML-CSS-blue)
